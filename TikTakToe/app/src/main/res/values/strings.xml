@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TikTakToe</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_restart">Restart</string>
+    <string name="retry">Play Again</string>
+    <string name="Exit">Exit</string>
+
+</resources>
